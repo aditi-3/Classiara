@@ -1,5 +1,4 @@
 // rfce to use snippet
-import React from 'react'
 import '../css/home.css' 
 import '../css/utilities.css' 
 import logo from '../assets/images/Classiara.png'
