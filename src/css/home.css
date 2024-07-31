@@ -49,7 +49,12 @@
     border: none;
     background-color: #d2d2d2;
     padding: 15px 32px;
+}
 
+.home-text button:hover{
+    background-color: #524039;
+    color: #ffff;
+    text-decoration: underline;
 }
 
 .home-img{
@@ -82,16 +87,20 @@
 
 }
 
+.home-downarrow{
+    size: 2rem;
+}
+
 .home-container-one{
     background-color: #ffff;
-    height: 1024px;
-    width: auto;
+    height: 1100px;
+    width: 100%;
 }
 
 .home-container-two{
     background-color: #524039;
     height: 1024px;
-    width: auto;
+    width: 100%;
 }
 
 .home-container-three{
